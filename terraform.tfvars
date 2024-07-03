@@ -1,0 +1,9 @@
+root_id                        = "tf-KLM"
+root_name                      = "Kilima-LZ"
+default_location               = "southafricanorth"
+deploy_corp_landing_zones      = true
+deploy_online_landing_zones    = true
+deploy_sap_landing_zones       = false
+deploy_management_resources    = false
+deploy_connectivity_resources  = false
+security_contact_email_address = "josimar@kilimagroup.co.za"
